@@ -1,1 +1,3 @@
 # Mondayrepository
+
+Programming notes.
